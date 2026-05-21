@@ -1,5 +1,0 @@
-field,description,allowed_values
-screening_title_abstract,Decyzja po tytule/abstrakcie,include; exclude; uncertain; needs_manual_review
-exclusion_reason,Powód wykluczenia,wrong_population; wrong_disease; wrong_outcome; not_empirical; review_only; not_human; not_relevant; duplicate; no_abstract; other
-notes,Notatki recenzenta,free text
-construct_tags,Tagi konstruktu,optimism; acceptance; adjustment; coping; quality_of_life; distress; anxiety; depression; survivorship; treatment
